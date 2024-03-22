@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](.screenshots/mobile.png)
-![](.screenshots/desktop.png)
+![](screenshots/mobile.png)
+![](screenshots/desktop.png)
 
 ### Links
 
@@ -42,4 +42,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@claire-ca](https://www.frontendmentor.io/profile/claire-ca
+- Frontend Mentor - [@claire-ca](https://www.frontendmentor.io/profile/claire-ca)
